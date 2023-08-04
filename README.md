@@ -17,7 +17,7 @@ incase of conflits resolved
 
 git push
 
-# git branching strategies
+# Git branching strategies
 
 git checkout -b <branch name>
 
